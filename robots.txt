@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://teiteitho.anterragroupinc.com/sitemap.xml
